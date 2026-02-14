@@ -2,7 +2,7 @@
 
 🚀 **Discover File-Uploader API Dashboard!**
 
-I'm excited to share **File-Uploader API Dashboard**, a powerful API for seamless file uploads, retrievals, and real-time logging – all managed through an intuitive status dashboard. 📁🔗
+I'm excited to share **File-Uploader API Dashboard**, a powerful API for seamless file uploads, retrievals, and real-time logging – all managed through an intuitive status dashboard. 📁
 
 ---
 
